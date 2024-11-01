@@ -1,6 +1,6 @@
-# [roadmap.sh Portfolio Website](https://roadmap.sh/projects/portfolio-website)
+# [roadmap.sh Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
 
-# Basic HTML Website
+# Personal Portfolio
 
 A Portfolio website with some styling.
 
@@ -16,7 +16,7 @@ This project only requires a web browser.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mnokerdev/portfolio-website.git
+   git clone https://github.com/mnokerdev/Personal-Portfolio.git
    ```
 2. ```bash
    open index.html
